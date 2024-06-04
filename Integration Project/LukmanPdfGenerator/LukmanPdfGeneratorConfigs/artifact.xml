@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><artifacts>
+    <artifact name="PdfGenerator_1.0" groupId="com.example.api" version="1.0" type="synapse/api" serverRole="EnterpriseServiceBus">
+        <file>src/main/synapse-config/api/PdfGenerator_1.0.xml</file>
+    </artifact>
+    <artifact name="PdfGenerator_1.0_swagger" groupId="com.example.metadata" version="1.0" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/PdfGenerator_1.0_swagger.yaml</file>
+    </artifact>
+    <artifact name="PdfGenerator_1.0_metadata" groupId="com.example.metadata" version="1.0" type="synapse/metadata" serverRole="EnterpriseServiceBus">
+        <file>src/main/resources/metadata/PdfGenerator_1.0_metadata.yaml</file>
+    </artifact>
+</artifacts>
