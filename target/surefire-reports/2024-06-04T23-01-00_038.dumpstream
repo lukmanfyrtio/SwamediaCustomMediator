@@ -1,0 +1,5 @@
+# Created at 2024-06-04T23:01:05.617
+Boot Manifest-JAR contains absolute paths in classpath 'D:\swamedia\x10s\SwamediaCustomMediator\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
